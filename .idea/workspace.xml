@@ -5,50 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce21a7f0-c28c-4ad1-99a4-359243fc93e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/AddProductToCompareList.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/AddProductToShoppingCart.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/AddProductToWishList.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/CreateOrder.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/Currancy.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/FilterWithColor.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/Login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/PasswordRecovery.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/Register.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/Search.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/SelectCategories.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/SelectTags.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P01_Register.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P02_Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P03_HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P04_PasswordRecoveryPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P05_SearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P06_BookPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P07_CompareProductPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P08_ShoesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P09_ShoppingCartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P10_TagsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P11_WishListPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefin/AddToWishListStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefin/CompareProductStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefin/CreateOrderStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefin/CurrancyStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefin/FilterWithColorStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefin/HomePageStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefin/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefin/LoginStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefin/PasswordRecoveryStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefin/RegisterStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefin/SearchStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefin/SelectCategoriesStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefin/SelectTagsStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefin/ShoppingCartStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/testRunner/runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/AddProductToCompareList.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/07-FollowUs.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/AddProductToShoppingCart.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/AddProductToWishList.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/08-WishList.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/CreateOrder.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/Currancy.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/03-Currancy.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/FilterWithColor.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/06-HomeSliders.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/02-Login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/PasswordRecovery.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/Register.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/01-Register.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/Search.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/04-Search.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/SelectCategories.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/05-HoverCategories.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/SelectTags.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/stepDefin/FilterWithColorStepDef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefin/HomeSlidersStepDef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/stepDefin/SelectCategoriesStepDef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefin/HoverCategoriesStepDef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/stepDefin/SelectTagsStepDef.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,14 +46,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Java/Projects for java/ECommerece Automation Project/src/main/resources/features",
-    "settings.editor.selected.configurable": "MavenSettings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/Projects for java/ECommerece Automation Project/src/main/resources/features&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Java\Projects for java\ECommerece Automation Project\src\main\resources\features" />

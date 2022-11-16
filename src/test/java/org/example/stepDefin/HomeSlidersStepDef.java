@@ -6,7 +6,7 @@ import org.example.pages.P03_HomePage;
 import org.example.pages.P08_ShoesPage;
 import org.testng.Assert;
 
-public class FilterWithColorStepDef {
+public class HomeSlidersStepDef {
 
     P03_HomePage p02HomePage;
     P08_ShoesPage p08ShoesPage;

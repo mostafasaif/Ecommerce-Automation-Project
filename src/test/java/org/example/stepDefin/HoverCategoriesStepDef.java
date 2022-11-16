@@ -5,7 +5,7 @@ import io.cucumber.java.en.Then;
 import org.example.pages.P03_HomePage;
 import org.testng.Assert;
 
-public class SelectCategoriesStepDef {
+public class HoverCategoriesStepDef {
 
     P03_HomePage p02HomePage;
 
